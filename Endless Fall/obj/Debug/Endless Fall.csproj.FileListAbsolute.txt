@@ -1,0 +1,10 @@
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\bin\Debug\Endless Fall.exe.config
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\bin\Debug\Endless Fall.exe
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\bin\Debug\Endless Fall.pdb
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\obj\Debug\Endless Fall.csprojAssemblyReference.cache
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\obj\Debug\Endless_Fall.Form1.resources
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\obj\Debug\Endless_Fall.Properties.Resources.resources
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\obj\Debug\Endless Fall.csproj.GenerateResource.cache
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\obj\Debug\Endless Fall.csproj.CoreCompileInputs.cache
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\obj\Debug\Endless Fall.exe
+C:\Users\edisp\source\repos\Endless Fall\Endless Fall\obj\Debug\Endless Fall.pdb
